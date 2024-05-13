@@ -1,0 +1,15 @@
+C:\Jasmine\Projects\Test Project\UnitTestCourse\bin\Debug\net6.0\UnitTestCourse.exe
+C:\Jasmine\Projects\Test Project\UnitTestCourse\bin\Debug\net6.0\UnitTestCourse.deps.json
+C:\Jasmine\Projects\Test Project\UnitTestCourse\bin\Debug\net6.0\UnitTestCourse.runtimeconfig.json
+C:\Jasmine\Projects\Test Project\UnitTestCourse\bin\Debug\net6.0\UnitTestCourse.dll
+C:\Jasmine\Projects\Test Project\UnitTestCourse\bin\Debug\net6.0\UnitTestCourse.pdb
+C:\Jasmine\Projects\Test Project\UnitTestCourse\obj\Debug\net6.0\UnitTestCourse.csproj.AssemblyReference.cache
+C:\Jasmine\Projects\Test Project\UnitTestCourse\obj\Debug\net6.0\UnitTestCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jasmine\Projects\Test Project\UnitTestCourse\obj\Debug\net6.0\UnitTestCourse.AssemblyInfoInputs.cache
+C:\Jasmine\Projects\Test Project\UnitTestCourse\obj\Debug\net6.0\UnitTestCourse.AssemblyInfo.cs
+C:\Jasmine\Projects\Test Project\UnitTestCourse\obj\Debug\net6.0\UnitTestCourse.csproj.CoreCompileInputs.cache
+C:\Jasmine\Projects\Test Project\UnitTestCourse\obj\Debug\net6.0\UnitTestCourse.dll
+C:\Jasmine\Projects\Test Project\UnitTestCourse\obj\Debug\net6.0\refint\UnitTestCourse.dll
+C:\Jasmine\Projects\Test Project\UnitTestCourse\obj\Debug\net6.0\UnitTestCourse.pdb
+C:\Jasmine\Projects\Test Project\UnitTestCourse\obj\Debug\net6.0\UnitTestCourse.genruntimeconfig.cache
+C:\Jasmine\Projects\Test Project\UnitTestCourse\obj\Debug\net6.0\ref\UnitTestCourse.dll
